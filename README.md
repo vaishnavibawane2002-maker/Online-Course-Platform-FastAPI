@@ -41,7 +41,9 @@ It allows users to manage courses, enroll students, track progress, and perform 
 - Uvicorn
 
 
+
 ## 📂 Project Structure
+
 
 fastapi_online_course_platform/
 │
