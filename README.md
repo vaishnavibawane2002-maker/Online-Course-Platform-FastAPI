@@ -1,4 +1,4 @@
-# 🚀 Advanced Online Course Platform (FastAPI Project)
+# 🚀 Online Course Platform (FastAPI Project)
 
 ## 📌 Project Overview
 The **Advanced Online Course Platform** is a backend system built using FastAPI.  
@@ -45,12 +45,12 @@ It allows users to manage courses, enroll students, track progress, and perform 
 ## 📂 Project Structure
 
 
-fastapi_online_course_platform/
-│
-├── main.py
-├── requirements.txt
-├── screenshots
-└── README.md/
+fastapi_online_course_platform
+
+ - main.py
+ - requirements.txt
+ - screenshots
+ - README.md
 
 ## ▶️ How to Run the Project
 
